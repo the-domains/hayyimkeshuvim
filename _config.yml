@@ -1,4 +1,3 @@
-layout_spectrum: 0.33941642264835536
 typography_spectrum: 0.5000483037438244
 color:
   brandStrength: 0.9187300137709826
@@ -6,9 +5,11 @@ color:
   saturation: 0.5482503778766841
   rhythmicContrast: 0.0803251473698765
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.33941642264835536
 name: HayyimKeshuvim
+title: חיים קשובים
